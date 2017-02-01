@@ -1,2 +1,8 @@
 hello
+<<<<<<< HEAD
 This is great code!!!!
+=======
+this is a new file for my project
+Horrible buggy code here
+Someone fell asleep holding ctrl + v
+>>>>>>> b821d815473d30b6e4888e9afdcc4548fcaa0a61
