@@ -3,6 +3,6 @@ This is great code!!!!
 this is a new file for my project
 I'm modifying th file for extra cuteness.  And exclamation points!!!!!!!!!!!!!!!!!!!!!!!
 Horrible buggy code here
-Someone fell asleep holding ctrl + v
+Here is another way of fixing the same bug
 Out with the old nonsense, in with the new
 
